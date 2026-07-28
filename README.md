@@ -23,3 +23,26 @@
 - 🚀 Always learning new technologies
 
 ---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,c" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+</div>
+
+---
