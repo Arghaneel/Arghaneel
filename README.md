@@ -59,10 +59,8 @@
 ---
 ## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arghaneel&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arghaneel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
