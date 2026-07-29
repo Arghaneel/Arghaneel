@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="300"
+     viewBox="0 0 1200 300">
+
+    <!-- Background -->
+    <rect width="1200" height="300" fill="#0D1117"/>
+
+    <!-- Terminal Window -->
+    <rect
+        x="40"
+        y="30"
+        width="1120"
+        height="240"
+        rx="18"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+    <!-- Top Bar -->
+    <rect
+        x="40"
+        y="30"
+        width="1120"
+        height="40"
+        rx="18"
+        fill="#21262D"/>
+
+    <!-- Window Buttons -->
+    <circle cx="70" cy="50" r="6" fill="#FF5F56"/>
+    <circle cx="95" cy="50" r="6" fill="#FFBD2E"/>
+    <circle cx="120" cy="50" r="6" fill="#27C93F"/>
+
+    <!-- Title -->
+    <text
+        x="170"
+        y="56"
+        fill="white"
+        font-size="18"
+        font-family="Arial">
+
+        profile.sh
+    </text>
+
+</svg>
