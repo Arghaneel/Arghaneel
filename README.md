@@ -1,17 +1,19 @@
 <div align="center">
 
-# Hi 👋, I'm Arghaneel Das
-
-### 💻 Computer Science Student • 📊 Data Analytics Enthusiast • 🚀 Open Source Learner
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Data+Analytics+Enthusiast;Python+%7C+React+%7C+SQL;Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
-
-<img src="assets/profile.png" width="180" style="border-radius:50%;" />
+<img src="assets/banner-dark.svg" width="100%" alt="GitHub Banner"/>
 
 </div>
 
+---
+
+```bash
+$ ssh arghaneel@github
+
+Connected...
+
+Welcome to Arghaneel's GitHub Profile
+
+Last Login: Today
 ---
 
 ## 🚀 About Me
