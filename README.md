@@ -82,6 +82,126 @@ $ github stats
 </div>
 
 ---
+```bash
+$ ls projects
+```
+
+```text
+projects
+├── Jeevandhara
+├── SixthSense
+├── Portfolio Website
+└── Carbon Grove
+```
+
+---
+## 🌾 Jeevandhara
+
+> AI-Powered Smart Agriculture Platform
+
+An intelligent agriculture platform that helps farmers using AI-powered crop analysis, weather prediction, trader connectivity, and government scheme assistance.
+
+**Tech Stack**
+
+`Python` `Flask` `Machine Learning` `MySQL`
+
+**Highlights**
+
+- 🤖 AI Crop Disease Detection
+- 🌦️ Weather Forecasting
+- 📈 Crop Price Prediction
+- 🏪 Trader Marketplace
+- 🏛️ Government Schemes
+
+**Status**
+
+🚧 In Development
+
+**Links**
+
+- 🔗 Repository: `Coming Soon`
+- 🌐 Demo: `Coming Soon`
+
+---
+## 👁 SixthSense
+
+> Smart Navigation Device for the Visually Impaired
+
+A wearable IoT device that detects obstacles and alerts users using ultrasonic sensors, LEDs, and buzzers.
+
+**Tech Stack**
+
+`ESP32` `Arduino` `C++`
+
+**Highlights**
+
+- 🚶 Head-Level Obstacle Detection
+- 📡 Ultrasonic Sensor
+- 🔊 Audio Alerts
+- 💡 LED Indicators
+
+**Status**
+
+✅ Prototype Completed
+
+**Links**
+
+- 🔗 Repository: `Coming Soon`
+
+---
+## 💻 Portfolio Website
+
+> Personal Developer Portfolio
+
+Modern portfolio showcasing projects, GitHub activity, and technical skills.
+
+**Tech Stack**
+
+`Next.js` `React` `Tailwind CSS`
+
+**Highlights**
+
+- ⚡ Fast
+- 📱 Responsive
+- 🎨 Modern UI
+- 🌙 Dark Theme
+
+**Status**
+
+🚧 Under Development
+
+**Links**
+
+- 🔗 Repository: `Coming Soon`
+- 🌐 Live Demo: `Coming Soon`
+
+---
+## 🌱 Carbon Grove
+
+> Sustainability Tracking Platform
+
+Platform for carbon footprint tracking and green rewards.
+
+**Tech Stack**
+
+`Flutter` `Flask` `MySQL`
+
+**Highlights**
+
+- 🌍 Carbon Tracking
+- 🌳 Eco Rewards
+- 🚲 Green Travel
+- 📊 Dashboard
+
+**Status**
+
+🚧 In Development
+
+**Links**
+
+- 🔗 Repository: `Coming Soon`
+
+---
 ## 🔥 GitHub Streak
 
 <p align="center">
