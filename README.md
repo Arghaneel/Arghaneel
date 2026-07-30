@@ -16,17 +16,38 @@ Welcome to Arghaneel's GitHub Profile
 Last Login: Today
 ---
 
-## 🚀 About Me
+```bash
+$ cat about.txt
+```
 
-- 🎓 Computer Science Student at **Atria Institute of Technology**
-- 📊 Interested in **Data Analytics** and **Software Development**
-- 🌱 Currently learning **React, Next.js, Python, SQL**
-- 💡 Love building real-world projects
-- 🚀 Always learning new technologies
+```txt
+Name      : Arghaneel Das
+Role      : Computer Science Student
+
+Education : Atria Institute of Technology
+Location  : Bangalore, India
+
+Focus     : Data Analytics
+Learning  : React, Next.js, Python, SQL
+
+Mission   : Build practical software and AI-powered
+            solutions that solve real-world problems.
+```
 
 ---
 
-## 🛠️ Tech Stack
+```bash
+$ tree skills
+```
+
+```text
+skills
+├── Languages
+├── Frontend
+├── Backend
+├── Database
+└── Tools
+```
 
 <div align="center">
 
@@ -46,7 +67,6 @@ Last Login: Today
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
-
 ---
 ## 📊 GitHub Statistics
 
