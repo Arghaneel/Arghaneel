@@ -218,7 +218,7 @@ $ snake --contributions
 ```
 <div align="center">
 
-![Snake animation](https://github.com/Arghaneel/Arghaneel/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Arghaneel/Arghaneel/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
