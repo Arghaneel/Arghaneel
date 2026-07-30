@@ -213,3 +213,13 @@ $ git log --streak
 </div>
 
 ---
+```bash
+$ snake --contributions
+```
+<div align="center">
+
+![Snake animation](https://github.com/Arghaneel/Arghaneel/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
