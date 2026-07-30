@@ -202,10 +202,14 @@ Platform for carbon footprint tracking and green rewards.
 - 🔗 Repository: `Coming Soon`
 
 ---
-## 🔥 GitHub Streak
+```bash
+$ git log --streak
+```
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arghaneel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arghaneel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
