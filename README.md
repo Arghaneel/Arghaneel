@@ -75,9 +75,13 @@ $ github stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-self-five-30.vercel.app/api?username=Arghaneel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img
+src="https://github-readme-stats-self-five-30.vercel.app/api?username=Arghaneel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+width="48%"/>
 
-<img height="170" src="https://github-readme-stats-self-five-30.vercel.app/api/top-langs/?username=Arghaneel&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+src="https://github-readme-stats-self-five-30.vercel.app/api/top-langs/?username=Arghaneel&layout=compact&theme=tokyonight&hide_border=true"
+width="48%"/>
 
 </div>
 
