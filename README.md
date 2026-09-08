@@ -14,247 +14,183 @@ Connected...
 Welcome to Arghaneel's GitHub Profile
 
 Last Login: Today
----
 
-```bash
 $ cat about.txt
-```
 
-```txt
 Name      : Arghaneel Das
 Role      : Computer Science Student
-
 Education : Atria Institute of Technology
 Location  : Bangalore, India
-
 Focus     : Data Analytics
 Learning  : React, Next.js, Python, SQL
-
 Mission   : Build practical software and AI-powered
             solutions that solve real-world problems.
-```
 
----
-
-```bash
 $ tree skills
-```
 
-```text
 skills
 ├── Languages
 ├── Frontend
 ├── Backend
 ├── Database
 └── Tools
-```
 
 <div align="center">
-
-### Languages
+Languages
 <img src="https://skillicons.dev/icons?i=python,java,js,c" />
-
-### Frontend
+Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
-### Backend
+Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Database
+Database
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> </div>
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
----
-
-```bash
 $ github stats
-```
 
 <div align="center">
 
-<img
-src="https://github-readme-stats-self-five-30.vercel.app/api?username=Arghaneel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-width="48%"/>
+<img src="https://github-readme-stats-self-five-30.vercel.app/api?username=Arghaneel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats" />
 
-<img
-src="https://github-readme-stats-self-five-30.vercel.app/api/top-langs/?username=Arghaneel&layout=compact&theme=tokyonight&hide_border=true"
-width="48%"/>
+<img src="https://github-readme-stats-self-five-30.vercel.app/api/top-langs/?username=Arghaneel&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 
 </div>
 
----
-```bash
-$ ls projects
-```
+$ github activity
+<div align="center">
 
-```text
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghaneel&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+
+</div>
+
+$ ls projects
 projects
 ├── Jeevandhara
 ├── SixthSense
 ├── Portfolio Website
 └── Carbon Grove
-```
 
----
-## 🌾 Jeevandhara
+🌾 Jeevandhara
 
-> AI-Powered Smart Agriculture Platform
+AI-Powered Smart Agriculture Platform
 
 An intelligent agriculture platform that helps farmers using AI-powered crop analysis, weather prediction, trader connectivity, and government scheme assistance.
 
-**Tech Stack**
+Tech Stack
 
-`Python` `Flask` `Machine Learning` `MySQL`
+Python Flask Machine Learning MySQL
 
-**Highlights**
+Highlights
 
-- 🤖 AI Crop Disease Detection
-- 🌦️ Weather Forecasting
-- 📈 Crop Price Prediction
-- 🏪 Trader Marketplace
-- 🏛️ Government Schemes
+🤖 AI Crop Disease Detection
+🌦️ Weather Forecasting
+📈 Crop Price Prediction
+🏪 Trader Marketplace
+🏛️ Government Schemes
 
-**Status**
+Status
 
 🚧 In Development
 
-**Links**
+Links
 
-- 🔗 Repository: `Coming Soon`
-- 🌐 Demo: `Coming Soon`
+🔗 Repository: Coming Soon
+🌐 Demo: Coming Soon
+👁 SixthSense
 
----
-## 👁 SixthSense
-
-> Smart Navigation Device for the Visually Impaired
+Smart Navigation Device for the Visually Impaired
 
 A wearable IoT device that detects obstacles and alerts users using ultrasonic sensors, LEDs, and buzzers.
 
-**Tech Stack**
+Tech Stack
 
-`ESP32` `Arduino` `C++`
+ESP32 Arduino C++
 
-**Highlights**
+Highlights
 
-- 🚶 Head-Level Obstacle Detection
-- 📡 Ultrasonic Sensor
-- 🔊 Audio Alerts
-- 💡 LED Indicators
+🚶 Head-Level Obstacle Detection
+📡 Ultrasonic Sensor
+🔊 Audio Alerts
+💡 LED Indicators
 
-**Status**
+Status
 
 ✅ Prototype Completed
 
-**Links**
+Links
 
-- 🔗 Repository: `Coming Soon`
+🔗 Repository: Coming Soon
+💻 Portfolio Website
 
----
-## 💻 Portfolio Website
-
-> Personal Developer Portfolio
+Personal Developer Portfolio
 
 Modern portfolio showcasing projects, GitHub activity, and technical skills.
 
-**Tech Stack**
+Tech Stack
 
-`Next.js` `React` `Tailwind CSS`
+Next.js React Tailwind CSS
 
-**Highlights**
+Highlights
 
-- ⚡ Fast
-- 📱 Responsive
-- 🎨 Modern UI
-- 🌙 Dark Theme
+⚡ Fast
+📱 Responsive
+🎨 Modern UI
+🌙 Dark Theme
 
-**Status**
+Status
 
 🚧 Under Development
 
-**Links**
+Links
 
-- 🔗 Repository: `Coming Soon`
-- 🌐 Live Demo: `Coming Soon`
+🔗 Repository: Coming Soon
+🌐 Live Demo: Coming Soon
+🌱 Carbon Grove
 
----
-## 🌱 Carbon Grove
-
-> Sustainability Tracking Platform
+Sustainability Tracking Platform
 
 Platform for carbon footprint tracking and green rewards.
 
-**Tech Stack**
+Tech Stack
 
-`Flutter` `Flask` `MySQL`
+Flutter Flask MySQL
 
-**Highlights**
+Highlights
 
-- 🌍 Carbon Tracking
-- 🌳 Eco Rewards
-- 🚲 Green Travel
-- 📊 Dashboard
+🌍 Carbon Tracking
+🌳 Eco Rewards
+🚲 Green Travel
+📊 Dashboard
 
-**Status**
+Status
 
 🚧 In Development
 
-**Links**
+Links
 
-- 🔗 Repository: `Coming Soon`
+🔗 Repository: Coming Soon
 
----
-```bash
 $ git log --streak
-```
+<div align="center"> <a href="https://git.io/streak-stats">
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=Arghaneel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arghaneel&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+</a> </div>
 
-</div>
-
----
-```bash
 $ snake --contributions
-```
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Arghaneel/Arghaneel/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Arghaneel/Arghaneel/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
----
-```bash
 $ contact
-```
+<div align="center"> <a href="https://www.linkedin.com/in/arghaneel-das-690b4b355"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:arghaneeldas29@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Arghaneel"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/arghaneel-das-690b4b355">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:arghaneeldas29@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Arghaneel">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-```bash
 $ shutdown now
-```
-
-```text
 Saving session...
+
 Logout successful.
 
 See you in the next commit. 👋
-```
