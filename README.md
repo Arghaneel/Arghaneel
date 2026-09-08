@@ -95,22 +95,6 @@ $ github stats
 ---
 
 ```bash
-$ github activity
-```
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Arghaneel&theme=tokyo-night&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-```bash
 $ ls projects
 ```
 
