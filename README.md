@@ -236,7 +236,16 @@ $ git log --streak
 
 </div>
 
----
+
+```bash
+$ github activity
+```
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph-azure-two.vercel.app/graph?username=Arghaneel&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
+
+</div>
 
 ```bash
 $ snake --contributions
