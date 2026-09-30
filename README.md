@@ -246,7 +246,9 @@ $ github activity
 <img src="https://github-readme-activity-graph-azure-two.vercel.app/graph?username=Arghaneel&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 
 </div>
+### 🏆 GitHub Achievements
 
+[![Pull Shark ×2](https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88%20%C3%972-blue)](https://github.com/Arghaneel?tab=achievements)
 ```bash
 $ snake --contributions
 ```
